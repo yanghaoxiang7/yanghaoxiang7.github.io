@@ -14,7 +14,7 @@ About me
 
 I am a second-year neuroscience PhD student at Johns Hopkins University in [Blackshaw lab](https://blackshawlab.com/). I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/) and Master's degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
 
-My interest lies in understanding the key regulators of aging to develop targeted therapeutics with leading technologies. I started biology research with [Dr. Jay Tan](https://jaytanlab.org/) as mentor and work with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/) at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/).
+My interest lies in understanding the key regulators of aging to develop targeted therapeutics with leading technologies. I started biology research with [Dr. Jay Tan](https://jaytanlab.org/) as mentor, working on aging and lysosomes, and work with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/) at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/), working on aging and lysosomes.
 
 See the following for a full list of experience.
 

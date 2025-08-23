@@ -12,10 +12,11 @@ Email: yanghaoxiang7@gmail.com
 About me
 ======
 
-I am a first-year neuroscience PhD rotation student at Johns Hopkins University.
-I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/) and Master's degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
+I am a second-year neuroscience PhD student at Johns Hopkins University in [Blackshaw lab](https://blackshawlab.com/). I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/) and Master's degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
 
-My interest lies in understanding the key regulators of aging to develop targeted therapeutics with leading technologies. I did research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/) as mentor and closely work with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/). See my Resume for a full list of experience.
+My interest lies in understanding the key regulators of aging to develop targeted therapeutics with leading technologies. I started biology research with [Dr. Jay Tan](https://jaytanlab.org/) as mentor and work with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/) at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/).
+
+See the following for a full list of experience.
 
 Research Interest
 ======
@@ -23,7 +24,14 @@ I focus on cellular and molecular mechanisms of aging, such as how to activate o
 
 Publications
 ======
-See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a latest list of papers.
+
+**Haoxiang Yang\***, Jinrui Xun\*, Yajuan Li, Awishi Mondal, Lv Bo, Simon C. Watkins, Lingyan Shi, Jay Xiaojun Tan. LYVAC/PDZD8 is a lysosomal vacuolator. Science. 2025 Aug 21;389(6762):eadz0972. doi: 10.1126/science.adz0972
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highlight: [A protein tunnel helps stressed lysosomes swell.](https://www.science.org/doi/10.1126/science.aea5377) Jennifer Lippincott-Schwartz. Science. 2025 Aug 21;389(6762):782-783. doi: 10.1126/science.aea5377.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UPMC news: [“Overinflated Balloons:” Study Reveals How Cellular Waste Disposal System Deals with Stress](https://inside.upmc.com/overinflated-balloons-study-reveals-how-cellular-waste-disposal-system-deals-with-stress/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BioArt: [Science | 谭小军团队揭示溶酶体液泡化的核心机制](https://mp.weixin.qq.com/s/GQ7If4v_QugUdWv3VCaTpw)
 
 [Lysosomal quality control: molecular mechanisms and therapeutic implications.](https://doi.org/10.1016/j.tcb.2023.01.001) **Haoxiang Yang**, Jay Xiaojun Tan. Trends in Cell Biology, 2023.
 
@@ -56,4 +64,4 @@ Advisor: [Dr. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/); Me
 Mila, 2021
 Advisor: [Dr. Jian Tang](https://jian-tang.com/); Mentor: [Chence Shi](https://chenceshi.com/), [Huiyu Cai](https://hui2000ji.github.io/); Co-worker: [Chang Ma](https://chang-github-00.github.io/-changma/)
 
-Last updated: Jan 29, 2025
+Last updated: Aug 23, 2025

@@ -31,7 +31,9 @@ Publications
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UPMC news: [“Overinflated Balloons:” Study Reveals How Cellular Waste Disposal System Deals with Stress](https://inside.upmc.com/overinflated-balloons-study-reveals-how-cellular-waste-disposal-system-deals-with-stress/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BioArt: Science | 谭小军团队揭示溶酶体液泡化的核心机制 [Link](https://mp.weixin.qq.com/s/GQ7If4v_QugUdWv3VCaTpw)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BioArt: Science \| [谭小军团队揭示溶酶体液泡化的核心机制](https://mp.weixin.qq.com/s/GQ7If4v_QugUdWv3VCaTpw)
+
 
 [Lysosomal quality control: molecular mechanisms and therapeutic implications.](https://doi.org/10.1016/j.tcb.2023.01.001) **Haoxiang Yang**, Jay Xiaojun Tan. Trends in Cell Biology, 2023.
 

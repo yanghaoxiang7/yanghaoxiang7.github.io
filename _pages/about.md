@@ -45,7 +45,7 @@ Publications
 
 Resume
 ======
-[Link](https://drive.google.com/file/d/1tGKtzC19vqMtq-vfZ4vz-R-lowVdoaih/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1eo4T-MQTFi-G0qSSAu6COHfeuH05PhOf/view?usp=drive_link)
 
 
 Previous experience and coworkers
